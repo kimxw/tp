@@ -135,6 +135,7 @@
         "locating-students-by-name-find": "Locating students by name: find",
         "deleting-a-student-delete": "Deleting a student : delete",
         "marking-a-student-s-attendance-mark": "Marking a student's attendance: `mark'",
+        "marking-all-students-attendance-markall": "Marking all students' attendance: `markall'",
         "unmarking-a-student-s-attendance-unmark": "Unmarking a student's attendance: `unmark'",
         "unmarking-all-students-attendance-unmarkall": "Unmarking all students' attendance: `unmarkall'",
         "clearing-all-entries-clear": "Clearing all entries : clear",
