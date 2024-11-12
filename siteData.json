@@ -41,7 +41,6 @@
       "headings": {
         "edulog-developer-guide": "EduLog Developer Guide",
         "acknowledgements": "Acknowledgements",
-        "list-here-sources-of-all-reused-adapted-ideas-code-documentation-and-third-party-libraries-include-links-to-the-original-source-as-well": "{ list here sources of all reused/adapted ideas, code, documentation, and third-party libraries -- include links to the original source as well }",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
         "architecture": "Architecture",
@@ -131,9 +130,8 @@
     },
     {
       "src": "UserGuide.md",
+      "title": "User Guide",
       "headings": {
-        "edulog-user-guide": "EduLog User Guide",
-        "for-educators": "for Educators",
         "quick-start": " Quick start ",
         "features": " Features ",
         "1-general-commands": "1. General commands",
@@ -144,11 +142,7 @@
         "6-data-files": "6. Data Files",
         "faq": " FAQ ",
         "known-issues": " Known Issues ",
-        "1-general-commands-2": "1. General Commands",
-        "2-student-commands-2": "2. Student Commands",
-        "3-calendar-commands-2": "3. Calendar Commands",
-        "4-gift-commands": "4. Gift Commands",
-        "5-revenue-commands-2": "5. Revenue Commands"
+        "command-summary": "Command Summary"
       },
       "headingKeywords": {}
     },
